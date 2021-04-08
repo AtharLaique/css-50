@@ -4,3 +4,15 @@ body {
     color: brown;
     font-family: 'Comfortaa', cursive;
 }
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.row {
+    align-self: center;
+}
+.project {
+    margin-bottom: 0;
+}
