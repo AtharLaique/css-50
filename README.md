@@ -1,1 +1,1 @@
-# Here we are going to make the best ever 50 css projects.
+# It's over project template file branch. 
