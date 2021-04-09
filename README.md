@@ -6,3 +6,6 @@
 flex-wrap: nowrap; /* Default value force one line*/
 flex-wrap: wrap;
 flex-wrap: wrap-reverse;
+
+3-Assign position:relative of parent to make reference.
+  Now assign position:absolute to child to change the document flow by using left, right, top and bottom.
